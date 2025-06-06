@@ -44,7 +44,7 @@
 .login-form{
     width: 60%;
     height: 60%;
-    background-color: rgb(255, 251, 5);
+    background-color: rgb(30, 30, 25);
     background-image: url(../images/oii.jpg);
     padding: 30px;
     border-radius: 60px 10px;
@@ -76,7 +76,7 @@
  
 .input-form{
     font-size: 16px;
-    color: yellow;
+    color: rgb(225, 225, 24);
     width: 100%;
     background-color:transparent;
     border: none;
@@ -137,7 +137,7 @@
 .texto1{
     color: rgb(0, 0, 0);
 }
-
+z
 .container-login-form-btn{
     width: 70%;
     display: flex;
